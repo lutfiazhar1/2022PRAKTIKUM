@@ -4,8 +4,8 @@
 
 <body class="hold-transition sidebar-mini">
     <div class="wrapper">
-        <?php include "partials/nav.php" ?>
-        <?php include "partials/side.php" ?>
+        <?php include "partials/navbar.php" ?>
+        <?php include "partials/sidebar.php" ?>
         <div class="content-wrapper">
             <?php include "partials/content.php" ?>
         </div>
